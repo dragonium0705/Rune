@@ -1,7 +1,6 @@
 
 
-default_functions = ["say"]
-		
+
 def compile(source, filename_output="__0utput.s"):
 	symbol_table = { 
 		"pf": { 
