@@ -1,5 +1,5 @@
 
-
+__version__ = "0.1.0
 
 def compile(source, filename_output="__0utput.s"):
 	symbol_table = { 
